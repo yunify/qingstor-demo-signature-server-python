@@ -1,0 +1,2 @@
+flask
+qingstor-sdk

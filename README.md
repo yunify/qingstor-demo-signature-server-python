@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/yunify/qingstor-demo-auth-server.git
 cd qingstor-demo-auth-server
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Usage
